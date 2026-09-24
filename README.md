@@ -27,6 +27,6 @@
 ### 🌙 签名
 
 ```text
-suigetsu —— 水月
-fuya —— 浮雅
+gensui —— 元水
+fuga —— 浮雅
 连字符是水面的一痕
